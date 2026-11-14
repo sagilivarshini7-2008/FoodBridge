@@ -3,8 +3,8 @@
 **Problem Statement:** PS-08 – Food Donation and Redistribution
 
 ## Team Details
-- Participant 1: Your Name
-- Participant 2: Not applicable
+- Participant 1: SAGILI VARSHINI
+- Participant 2: SISTLA NANDINI
 
 ## Problem
 A large amount of surplus food from restaurants, hotels and events is wasted every day, while many people struggle to access sufficient food. There is a need for a platform that connects food donors with NGOs to reduce food waste and support people in need.
